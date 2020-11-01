@@ -1,0 +1,8 @@
+flask==1.1.1
+flask_cors==3.0.8
+nltk==3.4.5
+numpy==1.16.6
+google-cloud-storage==1.28.0
+transformers==2.8.0
+tensorflow==2.0.0
+waitress==1.4.3
